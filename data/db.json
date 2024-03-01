@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My Firsrt Blog",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "author": "mario",
+            "id":1
+        },
+        {
+            "title": "Opening Party!",
+            "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+            "author": "yoshi",
+            "id":2
+        }
+    ]
+}
